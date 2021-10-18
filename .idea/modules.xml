@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" filepath="$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos01/Hilos01.iml" filepath="$PROJECT_DIR$/Hilos01/Hilos01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos02/Hilos02.iml" filepath="$PROJECT_DIR$/Hilos02/Hilos02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos03/Hilos03.iml" filepath="$PROJECT_DIR$/Hilos03/Hilos03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos04 Prioridad/Hilos04 Prioridad.iml" filepath="$PROJECT_DIR$/Hilos04 Prioridad/Hilos04 Prioridad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos05 Comunicación entre hilos/Hilos05 Comunicación entre hilos.iml" filepath="$PROJECT_DIR$/Hilos05 Comunicación entre hilos/Hilos05 Comunicación entre hilos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos06 Sincronizados/Hilos06 Sincronizados.iml" filepath="$PROJECT_DIR$/Hilos06 Sincronizados/Hilos06 Sincronizados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos07 Bloqueo/Hilos07 Bloqueo.iml" filepath="$PROJECT_DIR$/Hilos07 Bloqueo/Hilos07 Bloqueo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tema 2.iml" filepath="$PROJECT_DIR$/.idea/Tema 2.iml" />
+    </modules>
+  </component>
+</project>
