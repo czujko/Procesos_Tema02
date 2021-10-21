@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" filepath="$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiloCadena/HiloCadena.iml" filepath="$PROJECT_DIR$/HiloCadena/HiloCadena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiloTabla/HiloTabla.iml" filepath="$PROJECT_DIR$/HiloTabla/HiloTabla.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos01/Hilos01.iml" filepath="$PROJECT_DIR$/Hilos01/Hilos01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos02/Hilos02.iml" filepath="$PROJECT_DIR$/Hilos02/Hilos02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos03/Hilos03.iml" filepath="$PROJECT_DIR$/Hilos03/Hilos03.iml" />
@@ -10,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hilos05 Comunicación entre hilos/Hilos05 Comunicación entre hilos.iml" filepath="$PROJECT_DIR$/Hilos05 Comunicación entre hilos/Hilos05 Comunicación entre hilos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos06 Sincronizados/Hilos06 Sincronizados.iml" filepath="$PROJECT_DIR$/Hilos06 Sincronizados/Hilos06 Sincronizados.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos07 Bloqueo/Hilos07 Bloqueo.iml" filepath="$PROJECT_DIR$/Hilos07 Bloqueo/Hilos07 Bloqueo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HilosSumaArray/HilosSumaArray.iml" filepath="$PROJECT_DIR$/HilosSumaArray/HilosSumaArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tema 2.iml" filepath="$PROJECT_DIR$/.idea/Tema 2.iml" />
     </modules>
   </component>
