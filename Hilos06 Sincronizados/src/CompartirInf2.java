@@ -57,6 +57,7 @@ class HiloB2 extends Thread {
 			}
 			System.out.println(getName() + " contador vale "
 					+ contador.getValor());
+
 		}
 	}
 }// HILOB
@@ -68,6 +69,10 @@ public class CompartirInf2 {
 		HiloB2 b = new HiloB2("HiloB", cont);
 		a.start();		
 		b.start();
+		while(a.isAlive()|| b.isAlive()) {
+		}
+		System.out.println("Valor del contador: " + cont.getValor() );
+
 		
 	}
 }

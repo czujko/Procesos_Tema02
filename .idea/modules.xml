@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" filepath="$PROJECT_DIR$/HIlos08 Productor consumidor/HIlos08 Productor consumidor.iml" />
       <module fileurl="file://$PROJECT_DIR$/HiloCadena/HiloCadena.iml" filepath="$PROJECT_DIR$/HiloCadena/HiloCadena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiloSumador/HiloSumador.iml" filepath="$PROJECT_DIR$/HiloSumador/HiloSumador.iml" />
       <module fileurl="file://$PROJECT_DIR$/HiloTabla/HiloTabla.iml" filepath="$PROJECT_DIR$/HiloTabla/HiloTabla.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos01/Hilos01.iml" filepath="$PROJECT_DIR$/Hilos01/Hilos01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hilos02/Hilos02.iml" filepath="$PROJECT_DIR$/Hilos02/Hilos02.iml" />
