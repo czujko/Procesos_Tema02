@@ -5,11 +5,11 @@ public class Contador {
         this.cont=num;
     }
 
-    public void incrementa() {
+    public synchronized void incrementa() {
         cont++;
     }
 
-    public void decrementa() {
+    public synchronized void decrementa() {
         cont--;
     }
 

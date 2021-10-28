@@ -34,8 +34,8 @@ class HiloCadena extends Thread {
 public class BloqueoHilos {
 	public static void main(String[] args) {
 		ObjetoCompartido com = new ObjetoCompartido();
-		HiloCadena  a = new HiloCadena (com, " A ");
-		HiloCadena  b = new HiloCadena (com, " B ");
+		HiloCadena  a = new HiloCadena (com, " PING ");
+		HiloCadena  b = new HiloCadena (com, " PONG ");
 		a.start();
 		b.start();
 	}

@@ -7,13 +7,15 @@ public class HiloRestador extends Thread {
 
     @Override
     public void run() {
-        for (int i = 0; i < 300; i++) {
-            contador.decrementa();
-            try {
+        /*synchronized (contador) {*/
+            for (int i = 0; i < 300; i++) {
+                contador.decrementa();
+            /*try {
                 sleep(20);
             } catch (InterruptedException e) {
                 e.printStackTrace();
-            }
+            }*/
+            //}
         }
         System.out.println("Restador es: " + contador.getCont());
     }
