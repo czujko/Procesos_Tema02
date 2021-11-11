@@ -10,7 +10,7 @@ public class Productor extends Thread {
             cola.put(i); //pone el número
         
             try {
-                sleep(100);
+                sleep(3300);
             } catch (InterruptedException e) { }			
 			
         }
