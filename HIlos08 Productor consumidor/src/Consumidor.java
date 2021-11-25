@@ -9,7 +9,6 @@ public class Consumidor extends Thread {
         int valor = 0;
         for (int i = 0; i < 5; i++) {
             valor = cola.get(); //recoge el número
-          
         }
     }
 }

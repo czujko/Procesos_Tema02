@@ -28,7 +28,7 @@ public class Main {
         /*while (hilo1.isAlive() || hilo2.isAlive()) {
         }*/
 
-        while(!hilo1.isDone()) {
+        while (!hilo1.isDone()) {
         }
 
         System.out.println("La suma del Array 1 es: " + hilo1.getSuma());
